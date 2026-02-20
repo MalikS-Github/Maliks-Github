@@ -12,15 +12,16 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+## 👨‍💻 Information Technology Projects
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/MalikS-Github/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/MalikS-Github/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/MalikS-Github/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MalikS-Github/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MalikS-Github/azure-network-protocols)
+**osTicket (Help Desk Ticketing System)**
+- **[osTicket: Prerequisites and Installation](https://github.com/MalikS-Github/osticket-prereqs)**
+- **[osTicket: Post-Installation Configuration](https://github.com/MalikS-Github/post-install-config)**
+- **[osTicket: Ticket Lifecycle Examples](https://github.com/MalikS-Github/ticket-lifecycle)**
+
+## Microsoft Azure
+  - **[Configuring On-premises Active Directory within Azure VMs](https://github.com/MalikS-Github/configure-ad)**
+  - **[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MalikS-Github/azure-network-protocols)**
 
 
 
