@@ -1,12 +1,14 @@
-# 🛡️ Malik Silas | Digital Guardian & Cybersecurity Specialist
-### "Haki is the key to conquering the Grand Line of Networks."
+<div align="center">
+  <h1>🏴‍☠️ Malik Silas: The Cybersecurity Captain</h1>
+  <p><i>"Power isn't determined by your size, but the size of your heart and your dreams!"</i></p>
 
-[![SOC Analysis](https://img.shields.io/badge/Focus-SOC_Analysis-red?style=for-the-badge&logo=target)](https://github.com/)
-[![Azure](https://img.shields.io/badge/Cloud-Azure_VDI-blue?style=for-the-badge&logo=microsoft-azure)](https://github.com/)
-[![Status](https://img.shields.io/badge/Mindset-Locked_In-gold?style=for-the-badge&logo=lock)](https://github.com/)
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
----
-> "If you don't take risks, you can't create a future." — **Monkey D. Luffy**
+  ### 🛠️ Current Quest: Leveling up to Cybersecurity Bachelor's
+  **[ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ ] 90% Loading... Graduation Summer 2026**
+
+  `Vulnerability Management` • `KQL`  • `Azure`
+</div>
 
 ## Check out my projects! let me know what you think. Thanks for stopping by!
 
