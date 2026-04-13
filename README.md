@@ -1,6 +1,14 @@
-# <a href="https://www.linkedin.com/in/m-silas/">Malik Silas</a> IT and Cybersecurity Project Portfolio 🔐
+# 🛡️ Malik Silas | Digital Guardian & Cybersecurity Specialist
+### "Haki is the key to conquering the Grand Line of Networks."
 
-Check out my projects! let me know what you think. Thanks for stopping by!
+[![SOC Analysis](https://img.shields.io/badge/Focus-SOC_Analysis-red?style=for-the-badge&logo=target)](https://github.com/)
+[![Azure](https://img.shields.io/badge/Cloud-Azure_VDI-blue?style=for-the-badge&logo=microsoft-azure)](https://github.com/)
+[![Status](https://img.shields.io/badge/Mindset-Locked_In-gold?style=for-the-badge&logo=lock)](https://github.com/)
+
+---
+> "If you don't take risks, you can't create a future." — **Monkey D. Luffy**
+
+## Check out my projects! let me know what you think. Thanks for stopping by!
 
 ## ⚠️ Vulnerability Management Projects
 
