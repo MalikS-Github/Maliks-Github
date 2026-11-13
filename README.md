@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
   ### 🛠️ Current Quest: Leveling up to Cybersecurity Bachelor's
-  **[ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ ] 90% Loading... Graduation Summer 2026**
+  **[ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ ] 100% ... Graduate**
 
   `Vulnerability Management` • `KQL`  • `Azure`
 </div>
