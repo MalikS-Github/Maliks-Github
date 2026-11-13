@@ -4,8 +4,8 @@
 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-  ### 🛠️ Current Quest: Leveling up to Cybersecurity Bachelor's
-  **[ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ ] 100% ... Graduate**
+  ### 🛠️ Current Quest: Leveling up 
+
 
   `Vulnerability Management` • `KQL`  • `Azure`
 </div>
